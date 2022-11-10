@@ -1,0 +1,48 @@
+Scholar Robe
+Cleric Robe
+Mage Robe
+Mercenary Jacket
+Hunter Jacket
+Assassin Jacket
+Soldier Armor
+Knight Armor
+Guardian Armor
+Scholar Cowl
+Cleric Cowl
+Mage Cowl
+Mercenary Hood
+Hunter Hood
+Assassin Hood
+Soldier Helmet
+Knight Helmet
+Guardian Helmet
+Scholar Sandals
+Cleric Sandals
+Mage Sandals
+Mercenary Shoes
+Hunter Shoes
+Assassin Shoes
+Soldier Boots
+Knight Boots
+Guardian Boots
+Spear
+Pike
+Glaive
+Battleaxe
+Greataxe
+Halberd
+Broadsword
+Claymore
+Dual Swords
+Quarterstaff
+Iron-clad Staff
+Double Bladed Staff
+Hammer
+Polehammer
+Great Hammer
+Mace
+Heavy Mace
+Morning Star
+Bag
+Satchel of Insight
+Cape

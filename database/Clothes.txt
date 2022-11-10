@@ -1,0 +1,190 @@
+Scholar Robe
+Cleric Robe
+Mage Robe
+Druid Robe
+Fiend Robe
+Cultist Robe
+Robe of Purity
+Royal Robe
+Mercenary Jacket
+Hunter Jacket
+Assassin Jacket
+Stalker Jacket
+Hellion Jacket
+Specter Jacket
+Jacket of Tenacity
+Royal Jacket
+Soldier Armor
+Knight Armor
+Guardian Armor
+Graveguard Armor
+Demon Armor
+Judicator Armor
+Armor of Valor
+Royal Armor
+Scholar Cowl
+Cleric Cowl
+Mage Cowl
+Druid Cowl
+Fiend Cowl
+Cultist Cowl
+Cowl of Purity
+Royal Cowl
+Mercenary Hood
+Hunter Hood
+Assassin Hood
+Stalker Hood
+Hellion Hood
+Specter Hood
+Hood of Tenacity
+Royal Hood
+Soldier Helmet
+Knight Helmet
+Guardian Helmet
+Graveguard Helmet
+Demon Helmet
+Judicator Helmet
+Helmet of Valor
+Royal Helmet
+Scholar Sandals
+Cleric Sandals
+Mage Sandals
+Druid Sandals
+Fiend Sandals
+Cultist Sandals
+Sandals of Purity
+Royal Sandals
+Mercenary Shoes
+Hunter Shoes
+Assassin Shoes
+Stalker Shoes
+Hellion Shoes
+Specter Shoes
+Shoes of Tenacity
+Royal Shoes
+Soldier Boots
+Knight Boots
+Guardian Boots
+Graveguard Boots
+Demon Boots
+Judicator Boots
+Boots of Valor
+Royal Boots
+Dagger
+Dagger Pair
+Claws
+Bloodletter
+Demonfang
+Deathgivers
+Bridled Fury
+Spear
+Pike
+Glaive
+Heron Spear
+Spirithunter
+Trinity Spear
+Daybreaker
+Battleaxe
+Greataxe
+Halberd
+Carrioncaller
+Infernal Scythe
+Bear Paws
+Realmbreaker
+Broadsword
+Claymore
+Dual Swords
+Clarent Blade
+Carving Sword
+Galatine Pair
+Kingmaker
+Quarterstaff
+Iron-clad Staff
+Double Bladed Staff
+Black Monk Stave
+Soulscythe
+Staff of Balance
+Grailseeker
+Hammer
+Polehammer
+Great Hammer
+Tombhammer
+Forge Hammers
+Grovekeeper
+Hand of Justice
+Mace
+Heavy Mace
+Morning Star
+Bedrock Mace
+Incubus Mace
+Camlann Mace
+Oathkeepers
+Brawler Gloves
+Battle Bracers
+Spiked Gauntlets
+Ursine Maulers
+Hellfire Hands
+Ravenstrike Cestus
+Fists of Avalon
+Bow
+Warbow
+Longbow
+Whispering Bow
+Wailing Bow
+Bow of Badon
+Mistpiercer
+Crossbow
+Heavy Crossbow
+Light Crossbow
+Weeping Repeater
+Boltcasters
+Siegebow
+Energy Shaper
+Cursed Staff
+Great Cursed Staff
+Demonic Staff
+Lifecurse Staff
+Cursed Skull
+Damnation Staff
+Shadowcaller
+Fire Staff
+Great Fire Staff
+Infernal Staff
+Wildfire Staff
+Brimstone Staff
+Blazing Staff
+Bawnsong
+Frost Staff
+Great Frost Staff
+Glacial Staff
+Hoarfrost Staff
+IcicleStaff
+Permafrost Prism
+Chillhowl
+Arcane Staff
+Great Arcane Staff
+Enigmatic Staff
+Witchwork Staff
+Occult Staff
+Malevolent Locus
+Evensong
+Holy Staff
+Great Holy Staff
+Divine Staff
+Lifetouch Staff
+Fallen Staff
+Redemption Staff
+Hallowfall
+Nature Staff
+Great Nature Staff
+Wild Staff
+Druidic Staff
+Blight Staff
+Rampant Staff
+Ironroot Staff
+Shield
+Torch
+Tome of Spells
+Bag
+Satchel of Insight
+Cape
